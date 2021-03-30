@@ -4,4 +4,4 @@
 
 10//3 # integer division
 
-6//7 # 1
+print(6//7) # 1
