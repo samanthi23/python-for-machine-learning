@@ -35,3 +35,8 @@ separate by commas
 
 try to do it only when the variables make sense to assign together
 
+## naming restrictions
+
+1. must start with a letter or _
+2. rest letters, numbers, underscores
+3. case sensitive different capitalizes are not equal or the same
