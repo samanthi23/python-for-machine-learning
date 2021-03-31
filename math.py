@@ -22,3 +22,13 @@ python_is_awesome = 1337
 
 all, at, once  = 5, 10, 15
 print(at)
+
+num_of_cats = 198 # re-assigns
+print(num_of_cats)
+num_of_cats = 99
+num_of_cats = num_of_cats - 1
+print(num_of_cats) # 98
+
+friends = 0
+friends = num_of_cats
+print(friends)

@@ -4,6 +4,10 @@ documentation
 
 python3 docs
 
+type >>> python into terminal
+
+and can do math
+
 ##  variables and data types
 
 python is a dynamically typed language
